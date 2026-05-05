@@ -43,7 +43,7 @@ https://projet-baobab.vercel.app/
 
 
 ## capture d'ecrans
-![Menu](<tel.png>)
+![Menu](https://github.com/diamista8-afk/Projet-Baobab/blob/main/image/tel.jpeg)
 ![alt text](https://github.com/diamista8-afk/Projet-Baobab/blob/main/image/ipad.jpeg)
 ![alt text](https://github.com/diamista8-afk/Projet-Baobab/blob/main/image/desk.png)
 ##  Equipes
