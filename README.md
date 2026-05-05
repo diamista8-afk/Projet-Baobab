@@ -43,8 +43,11 @@ https://projet-baobab.vercel.app/
 
 
 ## capture d'ecrans
+# Telephone
 ![Menu](https://github.com/diamista8-afk/Projet-Baobab/blob/main/image/tel.jpeg)
+# Tablette
 ![alt text](https://github.com/diamista8-afk/Projet-Baobab/blob/main/image/ipad.jpeg)
+# Desktop
 ![alt text](https://github.com/diamista8-afk/Projet-Baobab/blob/main/image/desk.png)
 ##  Equipes
 Mame Diarra Diop
